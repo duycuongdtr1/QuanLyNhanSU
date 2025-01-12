@@ -1,0 +1,26 @@
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\VanQuyen\source\repos\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+E:\DALTWC\Do AN Chinh THuc\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+E:\DALTWC\Do AN Chinh THuc\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+E:\DALTWC\Do AN Chinh THuc\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+E:\DALTWC\Do AN Chinh THuc\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+E:\DALTWC\Do AN Chinh THuc\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+E:\DALTWC\Do AN Chinh THuc\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+E:\DALTWC\Do AN Chinh THuc\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+E:\DALTWC\Do AN Chinh THuc\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+E:\DALTWC\Do AN Chinh THuc\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+E:\DALTWC\Do AN Chinh THuc\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Resources.FormLogin.resources
+E:\DALTWC\Do AN Chinh THuc\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormMenu.resources
+E:\DALTWC\Do AN Chinh THuc\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormUser.resources
+E:\DALTWC\Do AN Chinh THuc\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormChamCong.resources
+E:\DALTWC\Do AN Chinh THuc\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormQuanLyLuong.resources
+E:\DALTWC\Do AN Chinh THuc\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormQuanLyNhanSu.resources
+E:\DALTWC\Do AN Chinh THuc\1561_QLSN_Project\QLSN_Project\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormDoiMatKhau.resources
